@@ -39,4 +39,4 @@ Since this is based on random draws, the probability will be slightly different 
 
 <br>
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+[Link to the project on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
