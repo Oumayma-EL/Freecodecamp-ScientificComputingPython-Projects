@@ -1,5 +1,5 @@
 # FreeCodeCamp Scientific Computing with Python Certificate Projects:
-This repository shows my own solutions to the projects of the scientific computing with python course on FCC.
+This repository shows my own solutions for the projects of the scientific computing with python course on FCC.
 
 ***Some important things to note:***
 * The files **main.py** , **test_module.py** , and **README.md** inside all directories are all uploaded from the starter code provided for us by FCC, so the other files are my real work, saying this just for honesty purposes.
